@@ -2,7 +2,7 @@
 
 to start please read README-ORIGIN.MD
 
-> add plugins when need it 
+## Add plugins when need it 
 
 For [plantuml](https://plantuml.com/en/) , Adding those plugins :
 
@@ -11,3 +11,7 @@ For [plantuml](https://plantuml.com/en/) , Adding those plugins :
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim)
 
 
+## Formating code steps : 
+ > curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+ > cargo install stylua
+ > stylua .
