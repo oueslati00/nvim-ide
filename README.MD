@@ -9,4 +9,5 @@ For [plantuml](https://plantuml.com/en/) , Adding those plugins :
 - [aklt/plantuml-syntax](https://github.com/aklt/plantuml-syntax)
 - [weirongxu/plantuml-previewer.vim](https://github.com/weirongxu/plantuml-previewer.vim)
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim)
- 
+
+
